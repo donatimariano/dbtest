@@ -2,7 +2,13 @@
 	"posts": [ 
 		{
 			"id": 1,
-			"title": "Hello here"
+			"title": "Hello here",
+			"comments": [
+				{
+				    "id": 2,
+				    "title": "Hello comment"
+				}
+			]
 		},
 		{
 			"id": 2,
